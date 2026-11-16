@@ -8,8 +8,8 @@
             text-decoration:none;border-radius:6px;font-family:sans-serif;
             font-weight:600;font-size:14px;margin:4px 0;">
     ★ Ubuntu_Rocky — Ansible role - ClickHouse
-  </a>
-  Сторонняя роль, автор — alexeysetevoi)
+  </a><br>
+  Сторонняя роль, автор — alexeysetevoi
   <br>
 
   <a href="https://github.com/Ollrins/ClickHouse-role" target="_blank"
