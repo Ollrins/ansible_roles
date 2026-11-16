@@ -7,7 +7,7 @@
      style="display:inline-block;padding:10px 18px;background:#0366d6;color:#fff;
             text-decoration:none;border-radius:6px;font-family:sans-serif;
             font-weight:600;font-size:14px;margin:4px 0;">
-    ★ Ubuntu_Rocky — Ansible role
+    ★ Ubuntu_Rocky — Ansible role - ClickHouse
   </a>
   <br>
 
