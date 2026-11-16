@@ -1,7 +1,7 @@
 ### Домашнее задание к занятию 4 «Работа с roles»
 <br>
 <p>
-Второй вариант с одной Ubuntu для alexeysetevoi.clickhouse и двумя Rocky:
+Два варианта с одной Ubuntu для alexeysetevoi.clickhouse и двумя Rocky:
 <p>
   <a href="https://github.com/Ollrins/Ansible_roles/tree/main/Ubuntu_Rocky" target="_blank"
      style="display:inline-block;padding:10px 18px;background:#0366d6;color:#fff;
