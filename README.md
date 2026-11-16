@@ -1,3 +1,41 @@
+### Домашнее задание к занятию 4 «Работа с roles»
+<br>
+<p>
+Второй вариант с одной Ubuntu для alexeysetevoi.clickhouse и двумя Rocky:
+<p>
+  <a href="https://github.com/Ollrins/Ansible_roles/tree/main/Ubuntu_Rocky" target="_blank"
+     style="display:inline-block;padding:10px 18px;background:#0366d6;color:#fff;
+            text-decoration:none;border-radius:6px;font-family:sans-serif;
+            font-weight:600;font-size:14px;margin:4px 0;">
+    ★ Ubuntu_Rocky — Ansible role
+  </a>
+  <br>
+
+  <a href="https://github.com/Ollrins/ClickHouse-role" target="_blank"
+     style="display:inline-block;padding:10px 18px;background:#0366d6;color:#fff;
+            text-decoration:none;border-radius:6px;font-family:sans-serif;
+            font-weight:600;font-size:14px;margin:4px 0;">
+    ★ ClickHouse — role
+  </a>
+  <br>
+
+  <a href="https://github.com/Ollrins/Vector-role" target="_blank"
+     style="display:inline-block;padding:10px 18px;background:#0366d6;color:#fff;
+            text-decoration:none;border-radius:6px;font-family:sans-serif;
+            font-weight:600;font-size:14px;margin:4px 0;">
+    ★ Vector — role
+  </a>
+  <br>
+
+  <a href="https://github.com/Ollrins/Lighthouse-role" target="_blank"
+     style="display:inline-block;padding:10px 18px;background:#0366d6;color:#fff;
+            text-decoration:none;border-radius:6px;font-family:sans-serif;
+            font-weight:600;font-size:14px;margin:4px 0;">
+    ★ Lighthouse — role
+  </a>
+</p>
+---
+
 # Домашнее задание к занятию 4 «Работа с roles»
 
 ## Подготовка к выполнению
@@ -37,43 +75,8 @@
 10. Выложите playbook в репозиторий.
 11. В ответе дайте ссылки на оба репозитория с roles и одну ссылку на репозиторий с playbook.
 
----
 
-### Домашнее задание к занятию 4 «Работа с roles»
-<br>
-<p>
-Второй вариант с одной Ubuntu для alexeysetevoi.clickhouse и двумя Rocky:
-<p>
-  <a href="https://github.com/Ollrins/Ansible_roles/tree/main/Ubuntu_Rocky" target="_blank"
-     style="display:inline-block;padding:10px 18px;background:#0366d6;color:#fff;
-            text-decoration:none;border-radius:6px;font-family:sans-serif;
-            font-weight:600;font-size:14px;margin:4px 0;">
-    ★ Ubuntu_Rocky — Ansible role
-  </a>
-  <br>
 
-  <a href="https://github.com/Ollrins/ClickHouse-role" target="_blank"
-     style="display:inline-block;padding:10px 18px;background:#0366d6;color:#fff;
-            text-decoration:none;border-radius:6px;font-family:sans-serif;
-            font-weight:600;font-size:14px;margin:4px 0;">
-    ★ ClickHouse — role
-  </a>
-  <br>
 
-  <a href="https://github.com/Ollrins/Vector-role" target="_blank"
-     style="display:inline-block;padding:10px 18px;background:#0366d6;color:#fff;
-            text-decoration:none;border-radius:6px;font-family:sans-serif;
-            font-weight:600;font-size:14px;margin:4px 0;">
-    ★ Vector — role
-  </a>
-  <br>
-
-  <a href="https://github.com/Ollrins/Lighthouse-role" target="_blank"
-     style="display:inline-block;padding:10px 18px;background:#0366d6;color:#fff;
-            text-decoration:none;border-radius:6px;font-family:sans-serif;
-            font-weight:600;font-size:14px;margin:4px 0;">
-    ★ Lighthouse — role
-  </a>
-</p>
 
 
